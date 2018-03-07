@@ -86,7 +86,6 @@ vendor/lib/libril-icera.so
 
 # GPS
 vendor/bin/glgps_nvidiaTegra2android
-vendor/bin/gps_select.sh
 vendor/lib64/hw/gps.brcm.so
 vendor/lib/hw/gps.brcm.so
 
@@ -188,7 +187,6 @@ vendor/lib/libnvrm.so
 vendor/lib/libnvRSCompiler.so
 vendor/lib/libnvRSDriver.so
 vendor/lib/libnvwsi.so
-vendor/lib/libw.so
 
 # Misc HALs
 vendor/lib64/hw/hdmi_cec.tegra.so
@@ -236,7 +234,6 @@ vendor/lib/libshieldtech.so
 vendor/lib/nvshieldtech.so
 
 # Widevine
-vendor/lib64/mediadrm/libwvdrmengine.so
 vendor/lib/liboemcrypto.so
 vendor/lib/mediadrm/libwvdrmengine.so
 
@@ -261,7 +258,6 @@ vendor/lib/libnvisp_v3.so
 vendor/lib/libnvmm_camera_v3.so
 vendor/lib/libnvvicsi_v3.so
 vendor/lib/libopencv24_tegra.so
-vendor/lib/libprotobuf-cpp-lold.so
 vendor/lib/libscf.so
 vendor/lib/libtbb.so
 
